@@ -25,8 +25,3 @@ To view the data visualization, simply visit the following link:
 ## About INFO 3300
 This project was developed as part of the INFO 3300 course, focusing on creating meaningful data visualizations using web technologies. It showcases the ability to use D3.js to turn raw data into visual insights.
 
-## Contact
-For questions or further information, feel free to reach out:
-
-- Name: [ABC](mailto:your.email@example.com)
-
