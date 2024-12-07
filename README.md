@@ -26,6 +26,6 @@ To view the data visualization, simply visit the following link:
 This project was developed as part of the INFO 3300 course, focusing on creating meaningful data visualizations using web technologies. It showcases the ability to use D3.js to turn raw data into visual insights.
 
 # References: 
-https://dataviz.unhcr.org/tools/d3/d3_donut_chart.html
-https://d3js.org/d3-shape/pie#_pie
-https://observablehq.com/@d3/d3-group 
+- https://dataviz.unhcr.org/tools/d3/d3_donut_chart.html
+- https://d3js.org/d3-shape/pie#_pie
+- https://observablehq.com/@d3/d3-group 
