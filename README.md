@@ -15,6 +15,8 @@ To view the data visualization and project report:
 ## Files in This Repository
 - `index.html`: The main HTML file that hosts the data visualization.
 - `noon_perfumes_dataset.csv`: The dataset used for the visualization.
+- `filterd_top_7_scents.csv`: The dataset used for the visualization.
+- `filtered_top_8_scents.json`: The dataset used for the visualization.
 
 ## Technologies Used
 - **HTML5**
