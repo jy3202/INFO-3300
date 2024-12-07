@@ -4,9 +4,9 @@
 This project contains a data visualization created for INFO 3300. The visualization is hosted and can be viewed using GitHub Pages. It provides an interactive and insightful display of the data used in this project.
 
 ## Visualize the Data
-To view the data visualization, simply visit the following link:
+To view the data visualization and project report:
 
-👉 [Click here to view the visualization](https://jy3202.github.io/INFO-3300/Project1/)
+👉 [Click here to view the visualization](https://github.com/jy3202/INFO-3300/blob/main/info%203300%2010_11%20final%20submission%20report.pdf)
 
 ## How to Use
 1. Click the link above to open the data visualization in your browser.
